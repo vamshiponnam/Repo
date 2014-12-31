@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ebay/Ebay_BDD/CommonFunctions.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ebay/Ebay_BDD/DriverSetup.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ebay/Ebay_BDD/MessageForwarder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ebay/Ebay_BDD/Trade.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/ebay/Ebay_BDD/constants" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/ebay/Ebay_BDD/data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/ebay/Ebay_BDD/pages" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/ebay/Ebay_BDD/stepDefinitions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/ebay/Ebay_BDD/utils" charset="UTF-8" />
+  </component>
+</project>
